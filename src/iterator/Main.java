@@ -3,6 +3,8 @@ package iterator;
 public class Main {
 
 	public static void main(String[] args) {
+
+		// ブランチ切り替えテスト
 		BookShelf bookShelf = new BookShelf(4);
 
 		bookShelf.appendBook(new Book("Around the World in 80Days"));
