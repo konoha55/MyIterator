@@ -6,6 +6,7 @@ public class Main {
 		// Gitコンフリクトテスト
 		// GitConflictTest
 		// pull request
+		// GitHub Flow
 		BookShelf bookShelf = new BookShelf(4);
 
 		bookShelf.appendBook(new Book("Around the World in 80Days"));
