@@ -3,6 +3,7 @@ package iterator;
 public class Main {
 
 	public static void main(String[] args) {
+		// Gitコンフリクトテスト
 		BookShelf bookShelf = new BookShelf(4);
 
 		bookShelf.appendBook(new Book("Around the World in 80Days"));
